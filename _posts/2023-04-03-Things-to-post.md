@@ -8,7 +8,7 @@ pin: true
 ---
 
 
-Things to post
+## Things to post
 * 컴구 복습
 * C언어 복습
     - 함수 매개변수―배열 call by value/reference
