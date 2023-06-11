@@ -68,7 +68,12 @@ pin: true
         - (signed/unsigned) long long : 8byte
         - float : 4byte (floating point)
         - double : alias to float
-* 전체 구조... 이건 그림 삽입, 접어서
+* <details>   
+  <summary><u>전체 구조</u></summary>
+  <div markdown="1">
+  ![Atmega128 diagram](/assets/img/Microprocessor/Atmega128 diagram.png)
+  </div>
+  </details>
 * I/O Port
     + On/Off 정보를 내어 놓거나 받아들이는 장치
     + 포트 A에서 포트 F까지(+G) 각 8bit인 6개의 입출력 포트

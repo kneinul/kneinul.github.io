@@ -14,3 +14,4 @@ pin: true
     - 함수 매개변수―배열 call by value/reference
 * C++ 복습
 * 마프 복습(특히 1주차) + atmega128 기능 정리
+* definition, axiom, theorem
